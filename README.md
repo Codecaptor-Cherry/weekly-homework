@@ -13,7 +13,7 @@
 | Implementation       | 럭키 스트레이트                      |              |              |           |              |         ☑️ |
 | DFS/BFS              | 특정 거리의 도시 찾기                |              |              |           |              |         ☑️ |
 | Sorting              | 국영수                              |              |              |           |              |         ☑️ |
-| Binary Search        | 배열에서 특정 수의<br> 개수 구하기        |              |              |           |              |         ☑️ |
+| Binary Search        | 정렬된 배열에서 <br>특정 수의 개수 구하기        |              |              |           |              |         ☑️ |
 | Dynamic Programming  | 금광                                |              |              |           |              |         ☑️ |
 | Short route          | 플로이드                            |              |              |           |              |          |
 | Graph                | 여행계획                            |              |              |           |              |          |
