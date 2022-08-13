@@ -1,0 +1,10 @@
+1. 작업 시작 전 (add, commit, push) 에 항상 git pull을 먼저 해라
+
+2. branch는 master을 쓰니까 본인이 연결한 브랜치가 main인지 master인지 꼭 확인해라
+
+3. week 마다 자신의 폴더에 자신의 코드를 올려라
+
+4. 다른 사람 폴더의 코드를 건들면 commit이 꼬일 수 도 있으니 주의하라
+
+5. 올리면 웹 상에 있는 github readme editor를 이용하여 본인의 칸에 체크 표시를 하자
+
