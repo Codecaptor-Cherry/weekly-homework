@@ -15,8 +15,8 @@
 | Sorting              | 국영수                              |              |             ☑️ |           |              |         ☑️ |
 | Binary Search        | 정렬된 배열에서 <br>특정 수의 개수 구하기        |              |             ☑️ |           |              |         ☑️ |
 | Dynamic Programming  | 금광                                |              |             ☑️ |           |              |         ☑️ |
-| Short route          | 플로이드                            |              |            ☑️ |           |              |          |
-| Graph                | 여행계획                            |              |             ☑️ |           |              |          |
+| Short route          | 플로이드                            |              |            ☑️ |           |              |     ☑️     |
+| Graph                | 여행계획                            |              |             ☑️ |           |              |      ☑️    |
 
 
 
