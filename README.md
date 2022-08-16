@@ -14,7 +14,7 @@
 | DFS/BFS              | 특정 거리의 도시 찾기                |       ☑️       |             ☑️ |          ☑️ |      ☑️        |         ☑️ |
 | Sorting              | 국영수                              |       ☑️       |             ☑️ |          ☑️ |       ☑️       |         ☑️ |
 | Binary Search        | 정렬된 배열에서 <br>특정 수의 개수 구하기        |      ☑️        |             ☑️ |          ☑️ |     ☑️         |         ☑️ |
-| Dynamic Programming  | 금광                                |       ☑️       |             ☑️ |          ☑️ |      ☑️        |         ☑️ |
+| Dynamic Programming  | 👑금광                                |       ☑️       |             ☑️ |          ☑️ |      ☑️        |         ☑️ |
 | Short route          | 🦄플로이드                           |       ☑️       |            ☑️ |          ☑️ |       ☑️       |     ☑️     |
 | Graph                | 여행계획                            |        ☑️      |             ☑️ |          ☑️ |      ☑️        |      ☑️    |
 
@@ -25,7 +25,7 @@
 | Greedy               | 곱하기 혹은 더하기       |              |             |           |              |          |
 | Implementation       | 문자열 재정렬           |              |              |           |              |          |
 | DFS/BFS              | 연구소                |              |              |           |              |          |
-| Sorting              | 안테나                |              |              |           |            |          |
+| Sorting              | 👑안테나                |              |              |           |            |          |
 | Binary Search        | 고정점 찾기            |              |              |           |              |          |
 | Dynamic Programming  | 정수 삼각형            |              |            |           |              |          |
 | Short route          | 정확한 순위            |              |             |           |              |         |
