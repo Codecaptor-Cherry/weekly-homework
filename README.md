@@ -25,7 +25,7 @@
 | Greedy               | 곱하기 혹은 더하기       |              |      ☑️       |           |              |     ☑️     |
 | Implementation       | 문자열 재정렬           |              |       ☑️       |           |              |      ☑️    |
 | DFS/BFS              | 💪연구소                |              |              |     ☑️      |              |      ☑️    |
-| Sorting              | 👑안테나                |              |              |     ☑️      |            |      ☑️    |
+| Sorting              | 👑안테나                |              |       ☑️       |     ☑️      |            |      ☑️    |
 | Binary Search        | 고정점 찾기            |              |              |           |              |          |
 | Dynamic Programming  | :star:정수 삼각형            |              |      ☑️      |     ☑️      |              |          |
 | Short Route          | 🐹정확한 순위            |              |             |           |              |         |
