@@ -29,7 +29,7 @@
 | Binary Search        | 고정점 찾기            |       ☑️       |       ☑️      |     ☑️      |              |     ☑️     |
 | Dynamic Programming  | :star:정수 삼각형            |    ☑️          |      ☑️      |     ☑️      |      ☑️        |     ☑️     |
 | Short Route          | 🐹정확한 순위            |              |             |           |              |    ☑️     |
-| Graph                | 🦄탑승구                |              |              |           |              |     ☑️     |
+| Graph                | 🦄탑승구                |      ☑️        |              |           |              |     ☑️     |
 
 <br>
 
