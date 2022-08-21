@@ -1,0 +1,49 @@
+package codingtestproblem.p3.day0822;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+public class 고정점찾기 {
+
+    static int n, ans;
+    static int[] arr;
+
+    public static void main(String[] args) throws IOException {
+
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st;
+
+        n = Integer.parseInt(br.readLine());
+        ans = -1;
+        arr = new int[n];
+
+        st = new StringTokenizer(br.readLine());
+
+        for(int i = 0; i < n; i++){
+            arr[i] = Integer.parseInt(st.nextToken());
+        }
+
+        binarySearch(0, arr.length);
+        System.out.println(ans);
+
+    }
+
+    static void binarySearch(int start, int end) {
+
+        int mid = (start + end) / 2;
+
+        if(start > end) {
+            return;
+        }else if(arr[mid] == mid) {
+            ans = mid;
+        }else if(arr[mid] > mid) {
+            binarySearch(start, mid - 1);
+        }else {
+            binarySearch(mid + 1, end);
+        }
+
+    }
+
+}
