@@ -27,7 +27,7 @@ class Solution {
         		sidx += i;
         		cidx += i;
         	}
-			compress += len - sidx + getDigit(size); // 문자열의 길이 더하기
+		compress += len - sidx + getDigit(size); // 문자열의 길이 더하기
         	answer = Math.min(answer, compress); // 최소값 갱신
         }
         
