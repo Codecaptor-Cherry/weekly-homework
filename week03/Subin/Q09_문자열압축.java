@@ -2,14 +2,15 @@
 class Solution {
     public int solution(String s) {
         int len = s.length();
-        int answer = Integer.MAX_VALUE;
-        for (int i = 1; i <= len; i++) { // 압축 단위
+        int answer = len;
+        
+        for (int i = 1; i <= len / 2; i++) { // 압축 단위
         	int compress = 0; // 압축한 문자열의 길이
         	int size = 1; // 반복 횟수
         	
         	// 압축이 가능한지 체크하기 위해 필요한 인덱스
-        	int sidx = 0;
-        	int cidx = i;
+        	int sidx = 0; // 이전 상태
+        	int cidx = i; // 현재 상태
         	
         	for (int j = i; j < len; j += i) {
         		for (int k = 0; k < i; k++) {
