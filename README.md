@@ -38,7 +38,7 @@
 | Implementation       | 문자열 압축           |            |             |     ☑️     |             |     ☑️    |
 | DFS/BFS              | 🦄경쟁적 전염            |   ☑️          |      ☑️      |    ☑️      |              |     ☑️     |
 | Sorting              | 실패율              |            |            |      ☑️    |            |     ☑️    |
-| Binary Search        | 👑공유기 설치            |             |           |      ☑️    |             |          |
+| Binary Search        | 👑공유기 설치            |             |           |      ☑️    |             |    ☑️      |
 | Dynamic Programming  | 🐹퇴사            |            |           |      ☑️    |              |    ☑️     |
 | Short Route          | :star:화성 탐사         |             |            |          |              |   ☑️      |
 | Graph                | 💪어두운 길          |             |             |          |             |    ☑️     |
