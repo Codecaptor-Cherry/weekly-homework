@@ -41,7 +41,7 @@
 | Binary Search        | 👑공유기 설치            |     ☑️        |      ☑️     |      ☑️    |             |    ☑️      |
 | Dynamic Programming  | 🐹퇴사            |        ☑️    |       ☑️     |      ☑️    |              |    ☑️     |
 | Short Route          | :star:화성 탐사         |         ☑️    |       ☑️     |     ☑️     |              |   ☑️      |
-| Graph                | 💪어두운 길          |      ☑️       |             |     ☑️     |             |    ☑️     |
+| Graph                | 💪어두운 길          |      ☑️       |      ☑️       |     ☑️     |             |    ☑️     |
 
 <br>
 
