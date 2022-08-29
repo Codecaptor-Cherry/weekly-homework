@@ -22,10 +22,7 @@ class Edge implements Comparable<Edge> {    // 간선의 정보를 담은 Edge�
     // 정렬시에 거리의 값이 오름차순으로 정렬되어야지 크루스칼 가능
     @Override
     public int compareTo(Edge other) {
-        if (this.distance < other.distance) {
-            return -1;
-        }
-        return 1;
+        return this.distance - other.distance;
     }
 }
 
