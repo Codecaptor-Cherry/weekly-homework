@@ -7,6 +7,7 @@ import java.io.StringReader;
 import java.util.StringTokenizer;
 
 /*
+ * 백준 제출 시 시간초과남 ..ㅠ
  * 출발 지점에서 목표 지점까지 이동할 때 항상 최적의 경로를 찾도록 개발
  * NxN 2차원 공간. 각각의 칸을 지나기 위한 비용 존재
  * (0, 0)에서 (N-1, N-1)로 이동하는 최소 비용을 출력하는 프로그램
