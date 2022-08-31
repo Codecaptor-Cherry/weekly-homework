@@ -82,8 +82,9 @@ public class PM_60059_자물쇠와열쇠_문희주 {
 		}
 		return false;
 	}
-    
-    public static boolean checkOpen(int[][] copy){
+	
+	// 자물쇠의 모든 칸이 1이 됐는지 
+	public static boolean checkOpen(int[][] copy){
         for(int i = 0; i < N; i++){
             for(int j = 0; j < N; j++){
                 if(copy[i][j] != 1) return false;
