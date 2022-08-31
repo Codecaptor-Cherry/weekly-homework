@@ -30,7 +30,7 @@ public class PM_60059_자물쇠와열쇠_문희주 {
 			answer = check(); // 현재 열쇠에 대해 정답 체크
 
 			if(answer) break; // 정답 나오면 종료
-			rotate(); // 정답 안나오면 열쇠 회줜
+			rotate(); // 정답 안나오면 열쇠 회전
 			
 		}
 	}
