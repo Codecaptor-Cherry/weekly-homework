@@ -70,10 +70,10 @@ public class PM_60059_자물쇠와열쇠_문희주 {
 					for(int b = 0; b < M; b++) {
 						if(j+b < 0 || j+b >= N) continue; // y 좌표 범위체크
 						if(copy[i+a][j+b] + key[a][b] != 1) { // 돌기가 겹치거나(2) 홈이 맞지 않은 경우(0)
-                            flag = false; // 오답
+                            				flag = false; // 오답
  							break; // 다음 좌표 수행
 						}
-                        copy[i+a][j+b] = 1; // 홈과 돌기가 맞은 경우 copy에 입력
+                      				copy[i+a][j+b] = 1; // 홈과 돌기가 맞은 경우 copy에 입력
 					}
 					if(!flag) break; // 오답이라면 다음 좌표 수행
 				}
