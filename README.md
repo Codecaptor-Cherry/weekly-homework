@@ -52,7 +52,7 @@
 | DFS/BFS              | 괄호 변환            |             |            |          |              |    ☑️      |
 | Sorting              | 카드 정렬하기              |            |             |          |            |     ☑️    |
 | Binary Search        | 🐹가사 검색            |             |           |          |             |     ☑️     |
-| Dynamic Programming  | 병사 배치하기            |            |            |          |              |         |
+| Dynamic Programming  | 병사 배치하기            |            |            |          |              |     ☑️    |
 | Short Route          | 숨바꼭질         |             |           |          |             |         |
 | Graph                | 행성 터널          |             |             |          |             |         |
 
