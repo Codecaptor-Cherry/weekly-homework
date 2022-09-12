@@ -63,8 +63,8 @@
 | Implementation       | 뱀          |      ☑️      |           |   ☑️   |     ☑️     |     ☑️    |
 | Implementation       | 기둥과 보 설치          |            |           |      |          |        |
 | DFS/BFS              | 연산자 끼워넣기          |    ☑️      |           |   ☑️    |     ☑️      |       ☑️      |
-| DFS/BFS              | 감시 피하기         |          |           |   ☑️   |     ☑️      |    ☑️         |
-| Dynamic Programming  | 못생긴 수           |          |          |      |      ☑️       |      ☑️      |
+| DFS/BFS              | 감시 피하기         |    ☑️      |           |   ☑️   |     ☑️      |    ☑️         |
+| Dynamic Programming  | 못생긴 수           |    ☑️      |          |      |      ☑️       |      ☑️      |
 | Graph                | 최종 순위         |          |            |        |           |       |
 <br>
 
