@@ -74,7 +74,7 @@
 | Greedy               | 무지의 먹방 라이브     |             |        |        |       |     ☑️      |
 | Implementation       | 치킨 배달          |      ☑️      |           |      |          |        |
 | Implementation       | 외벽 점검          |            |           |      |          |        |
-| DFS/BFS              | 인구 이동          |          |           |   ☑️    |           |         |
+| DFS/BFS              | 인구 이동          |     ☑️     |           |   ☑️    |           |         |
 | DFS/BFS              | 블록 이동하기          |          |           |   ☑️    |           |         |
 | Dynamic Programming  | 편집 거리          |    ☑️      |          |      |             |       |
 
